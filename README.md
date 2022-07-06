@@ -4,3 +4,8 @@ I personally hate the github suggestion of people I would like to follow, and th
 
 
 Until github add this feature I am using this script to hide those elements from my feed.
+
+
+## Install
+
+Copy paste this script to the firefox/chrome extension tampermonkey. 
