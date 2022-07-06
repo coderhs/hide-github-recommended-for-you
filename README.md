@@ -1,4 +1,6 @@
-# hide-github-recommended-for-you
+# Github I hate your recommendations
+
+## allow me to not see them
 
 I personally hate the github suggestion of people I would like to follow, and there is currently no way to hide it. Now way to mark - I hate (do not like) your recommendation show me someone else or no one at all.
 
